@@ -6,11 +6,11 @@ require (
 	github.com/GoogleCloudPlatform/k8s-cloud-provider v1.18.0
 	github.com/google/go-cmp v0.5.7
 	github.com/onsi/ginkgo v1.16.5
-	github.com/onsi/gomega v1.18.1
+	github.com/onsi/gomega v1.19.0
 	github.com/pkg/errors v0.9.1
 	github.com/spf13/pflag v1.0.5
 	golang.org/x/mod v0.5.1
-	golang.org/x/net v0.0.0-20220127200216-cd36cc0744dd
+	golang.org/x/net v0.0.0-20220225172249-27dd8689420f
 	google.golang.org/api v0.70.0
 	k8s.io/api v0.23.4
 	k8s.io/apimachinery v0.23.4
